@@ -6,8 +6,11 @@ This Python script is designed to detect forgotten locks in Panorama devices. It
 Requirements
 
 Python 3.x
+
 paramiko library
+
 paramiko_expect library
+
 
 Usage
 
